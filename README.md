@@ -1,1 +1,18 @@
-Ce script en Powershell permet de réimprimer en PDF plusieurs fichiers au format A4.
+<h1 align="center">Welcome to Impression multiple en PDF 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
+</p>
+
+> Ce script permet de réimprimer plusieurs PDF qui ne sont pas tous aux mêmes formats.
+
+## Author
+
+👤 **Sebastien C.**
+
+* Github: [@Dev-IT-Seb](https://github.com/Dev-IT-Seb)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
